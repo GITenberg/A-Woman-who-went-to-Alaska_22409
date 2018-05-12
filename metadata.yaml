@@ -13,6 +13,8 @@ description: This book, "A woman who went to Alaska", by Sullivan, May Kellogg, 
   human beings, page by page, so that you may enjoy it in a form as close to the original
   as possible. This book was created using print-on-demand technology. Thank you for
   supporting classic literature. From Amazon.com description.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22409#A-Woman-who-went-to-Alaska
 gutenberg_bookshelf: Women's Travel Journals
 gutenberg_issued: '2007-08-26'
 gutenberg_type: Text
