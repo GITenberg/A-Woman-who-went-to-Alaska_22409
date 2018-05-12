@@ -1,0 +1,31 @@
+_repo: A-Woman-who-went-to-Alaska_22409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sullivan, May Kellogg
+    gutenberg_agent_id: '25318'
+    url: http://www.gutenberg.org/2009/agents/25318
+description: This book, "A woman who went to Alaska", by Sullivan, May Kellogg, is
+  a replication of a book originally published before 1903. It has been restored by
+  human beings, page by page, so that you may enjoy it in a form as close to the original
+  as possible. This book was created using print-on-demand technology. Thank you for
+  supporting classic literature. From Amazon.com description.
+gutenberg_bookshelf: Women's Travel Journals
+gutenberg_issued: '2007-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22409'
+  lccn: 02029911
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Frontier and pioneer life -- Alaska'
+- !lcsh 'Alaska -- Description and travel'
+title: A Woman who went to Alaska
+url: http://www.gutenberg.org/ebooks/22409
